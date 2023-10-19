@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsPitara/static/css/main.abd64e84.css",
+    "main.js": "/NewsPitara/static/js/main.539d4713.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsPitara/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsPitara/static/media/loading.ddac88817840a95dcfb3.gif",
+    "index.html": "/NewsPitara/index.html",
+    "main.abd64e84.css.map": "/NewsPitara/static/css/main.abd64e84.css.map",
+    "main.539d4713.js.map": "/NewsPitara/static/js/main.539d4713.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsPitara/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.539d4713.js"
+  ]
+}
