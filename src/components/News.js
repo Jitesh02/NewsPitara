@@ -83,10 +83,5 @@ News.defaultProps = {
     pagesize: 8,
     category: "general"
 }
-// PropTypes = {
-//     country: PropTypes.string,
-//     pagesize: PropTypes.number,
-//     category: PropTypes.string
-// }
 
 export default News
